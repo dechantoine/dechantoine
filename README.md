@@ -8,7 +8,7 @@
 - 🕵️ I have also tackled fraud detection.
 - 🫥 My not-so-secret favorite topic is Reinforcement Learning, I would love to apply its principles on a genuine industrial project.
 - 🥸 Fun fact about me: I used to think GANs where the next big thing and studied a lot about them... now I aim for more stable training curves.
-- 🎓 I am a certified [Google Cloud Professional Machine Learning Engineer](https://google.accredible.com/2c755aa9-55bc-4977-b61e-7decd812a43a?key=3b0e57f6a6826e7a39c8937d558851a71fa8d43b547e8db036d3d2a0c0a4c5da)
+- 🎓 I am a certified [Google Cloud Professional Machine Learning Engineer](https://google.accredible.com/2c755aa9-55bc-4977-b61e-7decd812a43akey=3b0e57f6a6826e7a39c8937d558851a71fa8d43b547e8db036d3d2a0c0a4c5da) & I sometimes earn [GCP skillsboost badges](https://www.cloudskillsboost.google/public_profiles/9a84d1f9-3767-4850-9961-d0d1dcbcda43) when I need to refresh my knowledge.
 
 - 📫 How to reach me : **contact@antoine-does-ai.com**
 
