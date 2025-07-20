@@ -1,14 +1,14 @@
-<h1 align="center"> Hi there 👋 I'm Antoine Déchappe, Senior Data Scientist</h1>
+<h1 align="center"> Hi there 👋 I'm Antoine Déchappe, Lead ML Engineer</h1>
 
 
-<h4 align="center">Proficient end-to-end Data Scientist, I am driven by the challenge of solving highly complex problems and unlocking the hidden value within them. I possess the soul of a treasure seeker, powered by a strong mathematical background, technical agility, and interpersonal skills. My journey in Data Science began nearly 10 years ago in my bedroom. It has since progressed through earning an MSc in AI from the University of Glasgow and a MSc. in Statistical Engineering from Mines Douai. I continue to pursue this path with the same intellectual curiosity and freshness.</h3>
+<h4 align="center">Proficient end-to-end ML Engineer, I am driven by the challenge of solving highly complex problems and unlocking the hidden value within them. I possess the soul of a treasure seeker, powered by a strong mathematical background, technical agility, and interpersonal skills. My journey in Data Science & Machine Learning began nearly 10 years ago in my bedroom. It has since progressed through earning an MSc. in AI from the University of Glasgow and a MSc. in Statistical Engineering from Mines Douai. I continue to pursue this path with the same intellectual curiosity and freshness.</h3>
 
-- 🔭 I’m working on Natural Language Processing at @leroymerlin & @adeo
-- 🤖 Current hot topics involve LLMs efficiency & evaluation, RAGs, Agents, finetuning...
-- 🕵️ I have also tackled fraud detection.
+- 🔭 As Lead ML Engineer at @UpStreamPay, I drive the technical vision for AI & ML and guide our project strategy from ideation to production. I am accountable for the delivery of profitable models, while also mentoring the team and defining the technical best practices that enable us to scale.
+- 🤖 My current focus is on automation through AI Agents.
+- 🕵️ I also have solid experience in fraud detection, having built models to protect both users and revenue.
 - 🫥 My not-so-secret favorite topic is Reinforcement Learning, I would love to apply its principles on a genuine industrial project.
-- 🥸 Fun fact about me: I used to think GANs where the next big thing and studied a lot about them... now I aim for more stable training curves.
-- 🎓 I am a certified [Google Cloud Professional Machine Learning Engineer](https://google.accredible.com/2c755aa9-55bc-4977-b61e-7decd812a43akey=3b0e57f6a6826e7a39c8937d558851a71fa8d43b547e8db036d3d2a0c0a4c5da) & I sometimes earn [GCP skillsboost badges](https://www.cloudskillsboost.google/public_profiles/9a84d1f9-3767-4850-9961-d0d1dcbcda43) when I need to refresh my knowledge.
+- 🥸 Fun fact about me: I used to think GANs were the next big thing and studied a lot about them... now I aim for more stable training curves.
+- 🎓 I am a certified [Google Cloud Professional Machine Learning Engineer](https://google.accredible.com/2c755aa9-55bc-4977-b61e-7decd812a43akey=3b0e57f6a6826e7a39c8937d558851a71fa8d43b547e8db036d3d2a0c0a4c5da) & and continually sharpen my skills by earning new [GCP skillsboost badges](https://www.cloudskillsboost.google/public_profiles/9a84d1f9-3767-4850-9961-d0d1dcbcda43).
 
 - 📫 How to reach me : **contact@antoine-does-ai.com**
 
